@@ -2,4 +2,4 @@
 Teste inicial de Git
 
 ## Links Úteis
-[Sintaxe Básica MarkDown] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
